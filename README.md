@@ -110,3 +110,8 @@ crash.log
 VPC/subnet IDs — not secret, but not something to hardcode in a public repo
 either. Commit a `values.tfvars.example` with placeholder values instead so
 others know what to fill in.
+
+<img width="509" height="233" alt="image" src="https://github.com/user-attachments/assets/4fbb354f-7ca8-4c18-80a4-671a01413ec8" />
+
+
+
